@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/msgList"
+        android:layout_weight="5">
+
+    </ListView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textOfMsg"
+        android:layout_weight="10"/>
+    <Button
+        android:text="sendMessge"
+        android:id="@+id/sendMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="11"/>
+    <Button
+        android:id="@+id/closeConnectionSecond"
+        android:layout_width="match_parent"
+        android:text="close connection"
+        android:layout_height="match_parent"
+        android:layout_weight="11"/>
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bbamrin/.android/build-cache/8314c34ba802f27dc71d6e2cf6c2d089610f515e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/home/bbamrin/AndroidStudioProjects/WebSocketChat/app/build/intermediates/pre-dexed/debug/classes_91fa0dc81de6a5ceddebc77ddb60c23eca53402d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bbamrin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/home/bbamrin/AndroidStudioProjects/WebSocketChat/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.7.0_fad431423f60fd13ac3a08506c858559095ae1c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bbamrin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/bbamrin/AndroidStudioProjects/WebSocketChat/app/build/intermediates/pre-dexed/debug/okio-1.11.0_66475a46d8271ad9817e0eba9ad851b8e28f274d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bbamrin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/bbamrin/AndroidStudioProjects/WebSocketChat/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e1f9684d2b92a8d6291eb1575b971d670305e038.jar" />
+    </item>
+
+</items>
